@@ -1,3 +1,3 @@
 
-rootProject.name = "hello-snatype"
+rootProject.name = "hello-sonatype"
 

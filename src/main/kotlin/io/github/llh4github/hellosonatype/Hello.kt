@@ -1,4 +1,4 @@
-package io.github.llh4github.hellosntype
+package io.github.llh4github.hellosonatype
 
 /**
  *
